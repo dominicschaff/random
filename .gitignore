@@ -1,0 +1,6 @@
+.DS_Store
+*.out
+*.pyc
+*.pyo
+*.png
+*.jpg
